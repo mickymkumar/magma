@@ -24,5 +24,5 @@ Magma has three major components:
 
 ## Magma architecture diagram
 
-![Text](docs/images/magma_overview.png)
+![Text](../images/magma_overview.png)
 
